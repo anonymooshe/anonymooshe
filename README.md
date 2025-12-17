@@ -1,49 +1,85 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Science+Enthusiast;PHP+%26+React+Builder;AI+%26+Space+Explorer" alt="Typing SVG" />
-</p>
+</p> -->
+
+<tool_call>
+{"name": "search_image", "arguments": {"prompt": "Typing SVG"}}
+</tool_call>
 
 # Hi there! 👋 I'm @anonymooshe
 
-I build scalable web apps and turn data into stories—blending code, logic, and creativity.
+I build full-stack web applications and turn data into actionable insights—blending code, design, and analytics.
 
-## 🌐 Full-Stack Web Development
+---
 
-### 💻 Frontend
-- **React.js** + **TypeScript**  
-- **Tailwind CSS** for responsive, maintainable UIs  
-- Component-driven architecture with reusable, type-safe code
+## 🛠️ Tech Stack & Tools
 
-### ⚙️ Backend & Database
-- **Supabase**: PostgreSQL, real-time subscriptions, Auth, and Storage  
-- **PHP with Laravel** (leveraging **MVC architecture** for clean, maintainable code)  
-- Also experienced with **CodeIgniter**, **Node.js**, and traditional **PHP/MySQL** setups  
-- RESTful APIs, server-side rendering, and secure authentication flows
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📜 Languages & Paradigms
-- **TypeScript**, **JavaScript**, **PHP**, **Python**  
-- Strong grasp of **MVC (Model-View-Controller)** design pattern across frameworks
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
-## 📊 Data & AI Interests
-- **Data Visualization**: Interactive dashboards with real-time insights  
-- **AI & Machine Learning**: Smart features like predictive analytics & automation  
-- **Cloud Data**: **Snowflake** for scalable, secure analytics pipelines
+### ⚙️ Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4C2C?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🛠️ Dev Tools & Workflow
-- **Editor**: VS Code  
-- **Deployment**: Vercel / Netlify (frontend), Supabase or cloud VMs (backend)  
-- **Design & Planning**: Canva, Notion  
-- **Version Control**: Git + GitHub (obviously! 😄)
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-2C8EBB?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### 📊 Data & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🧰 Dev & Productivity Toolkit
+
+### 🔧 Local Development
+- **Local Servers**: [Laragon](https://laragon.org/), [XAMPP](https://www.apachefriends.org/)
+- **Database Clients**: [DBeaver](https://dbeaver.io/), [SQLite Browser](https://sqlitebrowser.org/)
+- **Terminal**: `bash` (WSL / Git Bash)
+
+### 🎨 Design & Assets
+- **Image/Icon Editing**: Adobe Photoshop
+- **UI Kits**: Material Design, [Lucid Icons](https://lucidar.me/en/web-dev-list-of-material-design-icons/)
+- **Mockups & Reports**: Canva
+
+### 🛠️ Dev Utilities
+- **API Testing**: Postman  
+- **Version Control**: GitHub Desktop, Git CLI  
+- **Data Analysis**: Google Sheets (for quick validation & collaboration)  
+- **Learning & Support**: Stack Overflow, Discord (dev communities)
+
+### 💻 Code & Workflow
+- **Editor**: VS Code (with extensions for PHP, TS, Git, Docker, etc.)  
+- **Deployment**: Vercel, Netlify, traditional hosting (for PHP/Laravel)  
+- **Project Mgmt**: Notion  
+
+---
 
 ## 🚀 Currently Working On
-- A **QR-based attendance system** (React + Supabase)  
-- Migrating legacy apps to **Laravel MVC**  
-- AI-enhanced reporting for attendance analytics
+- A **QR-based attendance system** (React + TypeScript + Supabase)  
+- Migrating legacy systems to **Laravel MVC** with clean architecture  
+- Enhancing dashboards with **real-time data** and **AI-driven summaries**
 
 ## 💡 What Excites Me
-- 🤖 Practical AI in everyday web apps  
-- 🏗️ Clean architecture (MVC, separation of concerns)  
-- 🌌 Space tech, data ethics, open collaboration  
-- 📸 Photography — my analog escape from code!
+- 🤖 Practical AI in everyday apps  
+- 🏗️ Clean, maintainable code (MVC all the way!)  
+- 🌌 Space tech, open data, and ethical innovation  
+- 📸 Photography — my creative reset from coding!
 
 <br>
 
@@ -56,5 +92,6 @@ I build scalable web apps and turn data into stories—blending code, logic, and
 <br>
 
 🦖🦖🌟  
-Feel free to explore my repos! Open to **collabs**, **ideas**, or a good tech chat.  
+Feel free to explore my repos! Open to **collaborations**, **feedback**, or a friendly tech chat.  
 Let’s build something **impactful** together! 🦖🦖🌟
+
