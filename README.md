@@ -1,36 +1,60 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Science+Enthusiast;Laravel+%26+React+Builder;AI+%26+Space+Explorer" alt="Typing SVG" />
+</p>
+
 # Hi there! 👋 I'm @anonymooshe
 
-I'm a Data Science enthusiast based in Cagayan de Oro, Philippines. I thrive on working with data-related projects, creating data visualizations, and transforming raw data into valuable insights. I'm always excited to learn and explore new things in the world of technology.
+I build scalable web apps and turn data into stories—blending code, logic, and creativity.
 
-## 🚀 About Me
+## 🌐 Full-Stack Web Development
 
-- 💼 I'm currently working at Cerebrox IT Solution.
-- 🌱 I'm constantly learning and improving my skills in Programming, Data Analytcs and Data Visualization.
-- 🎯 My goals: To use data to help solve real-world problems in a meaningful way.
+### 💻 Frontend
+- **React.js** + **TypeScript**  
+- **Tailwind CSS** for responsive, maintainable UIs  
+- Component-driven architecture with reusable, type-safe code
 
-## 💡 What I'm Enthusiastic About
+### ⚙️ Backend & Database
+- **Supabase**: PostgreSQL, real-time subscriptions, Auth, and Storage  
+- **PHP with Laravel** (leveraging **MVC architecture** for clean, maintainable code)  
+- Also experienced with **CodeIgniter**, **Node.js**, and traditional **PHP/MySQL** setups  
+- RESTful APIs, server-side rendering, and secure authentication flows
 
-- 🤖 Machine Learning and AI
-- 🌌 Space Exploration
-- 📸 Photography
-- 🌐 Big Data
-- 🧪 Data Analytics
-- 📈 Data Visualization
+### 📜 Languages & Paradigms
+- **TypeScript**, **JavaScript**, **PHP**, **Python**  
+- Strong grasp of **MVC (Model-View-Controller)** design pattern across frameworks
 
-## 🛠️ My Favorite Tools
+## 📊 Data & AI Interests
+- **Data Visualization**: Interactive dashboards with real-time insights  
+- **AI & Machine Learning**: Smart features like predictive analytics & automation  
+- **Cloud Data**: **Snowflake** for scalable, secure analytics pipelines
 
-- 💻 VSCode
-- 🐍 Python
-- 🧪 Jupyter Notebook
-- 🚀 Snowflake
-- 📦 Canva
+## 🛠️ Dev Tools & Workflow
+- **Editor**: VS Code  
+- **Deployment**: Vercel / Netlify (frontend), Supabase or cloud VMs (backend)  
+- **Design & Planning**: Canva, Notion  
+- **Version Control**: Git + GitHub (obviously! 😄)
 
-  
-🦖🦖🌟 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or want to collaborate on a project. 
-Let's connect and make the tech world better together! 🦖🦖🌟
+## 🚀 Currently Working On
+- A **QR-based attendance system** (React + Supabase)  
+- Migrating legacy apps to **Laravel MVC**  
+- AI-enhanced reporting for attendance analytics
 
+## 💡 What Excites Me
+- 🤖 Practical AI in everyday web apps  
+- 🏗️ Clean architecture (MVC, separation of concerns)  
+- 🌌 Space tech, data ethics, open collaboration  
+- 📸 Photography — my analog escape from code!
 
-<!---
-anonymooshe/anonymooshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<div align="center">
+  <a href="https://github.com/anonymooshe">
+    <img src="https://komarev.com/ghpvc/?username=anonymooshe&label=Profile%20Views&color=2AA889&style=for-the-badge" alt="Profile views" />
+  </a>
+</div>
+
+<br>
+
+🦖🦖🌟  
+Feel free to explore my repos! Open to **collabs**, **ideas**, or a good tech chat.  
+Let’s build something **impactful** together! 🦖🦖🌟
