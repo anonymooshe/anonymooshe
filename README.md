@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Science+Enthusiast;PHP+%26+React+Builder;AI+%26+Space+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Anonymooshe;Full-Stack+Web+Developer;Data+Science+Enthusiast+;PHP%2C+Python+%26+React+Builder;AI+%26+Space+Explorer)](https://git.io/typing-svg" alt="Typing SVG" />
 </p> 
 
 # Hi there! 👋 I'm @anonymooshe
