@@ -5,8 +5,7 @@
 
 # Hi there! 👋 I'm @anonymooshe
 
-I build full-stack web applications and turn data into actionable insights—blending code, design, and analytics.
-
+I build full-stack web applications and turn data into actionable insights through code, design, and analytics—always improving, always learning.
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -61,9 +60,9 @@ I build full-stack web applications and turn data into actionable insights—ble
 - **Learning & Support**: Stack Overflow, Discord (dev communities)
 
 ### 💻 Code & Workflow
-- **Editor**: VS Code (with extensions for PHP, TS, Git, Docker, etc.)  
-- **Deployment**: Vercel, Netlify, traditional hosting (for PHP/Laravel)  
-- **Project Mgmt**: Notion  
+- **Editor**: VS Code (with extensions for PHP, TS, Python, Git, etc.)  
+- **Deployment**: Vercel
+- **Project Mgmt**: Notion, Slack, Asana, ClickUp
 
 ---
 
@@ -77,6 +76,7 @@ I build full-stack web applications and turn data into actionable insights—ble
 - 🏗️ Clean, maintainable code (MVC all the way!)  
 - 🌌 Space tech, open data, and ethical innovation  
 - 📸 Photography — my creative reset from coding!
+- 🎮 Play Games
 
 <br>
 
