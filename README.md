@@ -51,7 +51,7 @@ I build full-stack web applications and turn data into actionable insights throu
 ### 🎨 Design & Assets
 - **Image/Icon Editing**: Adobe Photoshop
 - **UI Kits**: Material Design, [Lucid Icons](https://lucidar.me/en/web-dev-list-of-material-design-icons/)
-- **Mockups & Reports**: Canva
+- **Mockups & Reports**: Canva, Google Docs
 
 ### 🛠️ Dev Utilities
 - **API Testing**: Postman  
