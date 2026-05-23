@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Anonymooshe;Full-Stack+Web+Developer;Data+Science+Enthusiast;PHP%2C+Python+%26+React+Builder;2%2B+years+of+experience;AI+%26+Space+Explorer" alt="Typing SVG" />
 </p>
 
-# Hi there! 👋 I'm @anonymooshe
+# Hi there! 👋 I'm Anonymooshe
 
 I build full-stack web applications and turn data into actionable insights through code, design, and analytics—always improving, always learning.
 
