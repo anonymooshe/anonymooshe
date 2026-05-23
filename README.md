@@ -111,6 +111,19 @@ I build full-stack web applications and turn data into actionable insights throu
 </table>
 
 ---
+<br>
+
+## 🎭 Random Dev Joke
+
+<p align="center">
+  <img 
+    src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000"
+    alt="Random Dev Joke"
+    style="max-width: 600px; width: 100%; height: auto;"
+  />
+</p>
+
+---
 
 <br>
 
