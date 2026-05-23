@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Anonymooshe;Full-Stack+Web+Developer;Data+Science+Enthusiast;PHP%2C+Python+%26+React+Builder;2%2B+years+of+experience;Experienced+in+Web+development;AI+%26+Space+Explorer" alt="Typing SVG" />
 </p>
@@ -6,6 +5,15 @@
 # Hi there! 👋 I'm @anonymooshe
 
 I build full-stack web applications and turn data into actionable insights through code, design, and analytics—always improving, always learning.
+---
+
+## 📊 GitHub Contribution Streak
+<p align="center">
+  <a href="https://github.com/anonymooshe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymooshe&theme=dark&stroke=2AA889&sideNums=2AA889&sideLabels=ffffff&ring=2AA889&fire=2AA889&currStreakNum=2AA889&currStreakLabel=ffffff" alt="Anonymooshe GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -66,17 +74,19 @@ I build full-stack web applications and turn data into actionable insights throu
 
 ---
 
-## 🚀 Currently Working On
-- A **QR-based attendance system** (React + TypeScript + Supabase)  
-- Migrating legacy systems to **Laravel MVC** with clean architecture  
-- Enhancing dashboards with **real-time data** and **AI-driven summaries**
-
 ## 💡 What Excites Me
 - 🤖 Practical AI in everyday apps  
 - 🏗️ Clean, maintainable code (MVC all the way!)  
 - 🌌 Space tech, open data, and ethical innovation  
 - 📸 Photography — my creative reset from coding!
 - 🎮 Play Games
+
+---
+
+## 💬 Dev Thought of the Day
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&border_color=2AA889&text_color=ffffff&author_color=2AA889" alt="Random Dev Quote" />
+</p>
 
 <br>
 
@@ -90,4 +100,3 @@ I build full-stack web applications and turn data into actionable insights throu
 🦖🦖🌟  
 Feel free to explore my repos! Open to **collaborations**, **feedback**, or a friendly tech chat.  
 Let’s build something **impactful** together! 🦖🦖🌟
-
