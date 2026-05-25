@@ -136,6 +136,6 @@ I build full-stack web applications and turn data into actionable insights throu
 <br>
 
 <p align="center">
- 🦖🦖🌟 Feel free to explore my repos! Open to **collaborations**, **feedback**, or a friendly tech chat.  
-Let’s build something **impactful** together! 🦖🦖🌟
+ 🦖🦖🌟 Feel free to explore my repos! Open to <strong>collaborations</strong>, <strong>feedback</strong>, or a friendly tech chat.  
+Let’s build something <strong>impactful</strong> together! 🦖🦖🌟
 </p>
