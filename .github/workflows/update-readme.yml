@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 8:00 AM Philippines Time
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Script
+        run: python update_readme.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add README.md
+
+          git diff --staged --quiet || (
+            git commit -m "🤖 Auto update README"
+            git push
+          )
